@@ -1,4 +1,5 @@
 # Detect LRRK2-G2019S protein mutation in Parkinson Disease
+# Download the protein sequence LRRK2 from UniProt
 # The 2019th amino acid (index 2018) is a 'G' when the protein is normal, and an 'S' when it's mutated
 import tkinter
 import tkinter.simpledialog 
