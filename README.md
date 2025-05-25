@@ -1,4 +1,4 @@
-# Detect LRRK2-G2019S proteinmutation in Parkinson Disease
+# Detect LRRK2-G2019S protein mutation in Parkinson Disease
 import tkinter
 import tkinter.simpledialog
 
